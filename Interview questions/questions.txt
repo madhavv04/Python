@@ -1,0 +1,1 @@
+What are lists? why they are mutuable ? Does it store multiple values at a time and how?

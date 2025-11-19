@@ -1,0 +1,11 @@
+Name : arpit
+Email : a@gmail.com
+Password : 470cb76103c3a592d0d9e7e9a42210f6cab62a01babc7e258e7b5792ad419d7c
+
+--- Shopping Cart ---
+Jeans       Qty: 1    Price: 200  Amount: 200
+Total Bill: 700
+--------------------------
+Shirt       Qty: 1    Price: 500  Amount: 500
+Total Bill: 700
+--------------------------

@@ -1,0 +1,17 @@
+Name : m
+Email : ma@gmail.com
+Password : e403435385614e9ce770e6c00f0cad0feb1dddff4e2ab353de3423fb94a2b220
+
+--- Shopping Cart ---
+Jeans       Qty: 1    Price: 200  Amount: 200
+Total Bill: 2650
+--------------------------
+Shirt       Qty: 2    Price: 500  Amount: 1000
+Total Bill: 2650
+--------------------------
+T-shirt     Qty: 3    Price: 150  Amount: 450
+Total Bill: 2650
+--------------------------
+Cap         Qty: 4    Price: 250  Amount: 1000
+Total Bill: 2650
+--------------------------
